@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Airflow logs
+logs/
+
+# Airflow interim data
+data/interim/
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
